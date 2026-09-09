@@ -78,8 +78,8 @@ Here's an example of a multi-page resume:
 #resume-page(
   sidebar: [
     == Sidebar content
-  ]
-])[
+  ],
+)[
   == First Page Content
 ]
 
